@@ -8,4 +8,14 @@ Currently, two official plugins are available:
 - [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
 
 
-
+# Pre-requisites
+1. HTML
+2. CSS
+3. JavaScript
+ . Basics
+ . ES6
+ . Arrow functions
+ . Array methods (map, filter, find, sort)
+ . Template literals
+ . Spread operator
+ . Destructuring
